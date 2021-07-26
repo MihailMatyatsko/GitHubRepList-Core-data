@@ -12,10 +12,10 @@ Recieving open repositories from api.github, and use that info to show them in t
     func fetchSearchHistoryAndRepositories or func updateSearchResults causes a repeating BUG in extenGitHubVC.swift between lines 142 and 192.
     this problem is solved by deleting a previous array data every time, however, this is not a good solution at all. I don't know how to solve it, but i should
     notify you that such ploblem exists.
-
-      Good luck, and I wish you successful programming =)
-      
-                                                            Application Design
+     
+     
+     Good luck, and I wish you successful programming =)
+<p align="center">   Application Design </p>
 
 <p align="center">
     <img width="425" alt="Снимок экрана 2021-07-26 в 15 49 01" src="https://user-images.githubusercontent.com/87068027/126991382-9eb9e8d7-1bdd-4886-82a6-3f8a070fdb8a.png">
